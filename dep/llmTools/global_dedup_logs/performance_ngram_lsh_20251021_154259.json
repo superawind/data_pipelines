@@ -1,0 +1,10 @@
+{
+  "total_items": 1000,
+  "unique_items": 674,
+  "duplicate_items": 326,
+  "similar_groups": 65,
+  "dedup_ratio": 0.326,
+  "total_time": 0.6881322860717773,
+  "method": "ngram_lsh_global",
+  "mode": "global"
+}

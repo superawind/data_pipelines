@@ -1,0 +1,15 @@
+{
+  "total_items": 1000,
+  "unique_items": 900,
+  "duplicate_items": 100,
+  "dedup_ratio": 0.1,
+  "total_time": 0.05545973777770996,
+  "dedup_time": 0.024960994720458984,
+  "index_time": 0.0003483295440673828,
+  "processing_speed": 40062.50596977859,
+  "embedding_dim": 128,
+  "threshold": 0.95,
+  "batch_size": 1000,
+  "method": "embedding_global",
+  "mode": "global"
+}

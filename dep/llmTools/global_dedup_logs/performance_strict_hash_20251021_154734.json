@@ -1,0 +1,10 @@
+{
+  "total_items": 1000,
+  "unique_items": 1000,
+  "duplicate_items": 0,
+  "dedup_ratio": 0.0,
+  "total_time": 0.018541812896728516,
+  "unique_hashes": 1000,
+  "method": "strict_hash_global",
+  "mode": "global"
+}

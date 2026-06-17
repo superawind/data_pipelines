@@ -1,0 +1,14 @@
+# 核心依赖
+openai>=1.0.0
+pytest>=7.0.0
+
+# 数据处理和类型检查
+typing-extensions>=4.4.0
+
+# 日志和配置
+coloredlogs>=15.0
+
+# 开发依赖（可选）
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.991 

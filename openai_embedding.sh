@@ -1,0 +1,1 @@
+nohup python /mnt/code/zhaoxudong03/data_pipelines/02_openai_embedding_client.py >> 204w_embedding.log & 
